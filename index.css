@@ -1,0 +1,22 @@
+#document {
+    padding: 5rem 20% 5rem 20%;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.right {
+    text-align: right;
+}
+
+.no-decoration-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.no-padding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
